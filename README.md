@@ -2,7 +2,7 @@
 
 ## 🌟 项目简介
 
-这是一个基于 **Node.js + Express + Vue3 + Vue3 + MySQL** 构建的旅游服务管理系统。
+这是一个基于 **Node.js + Express + Vue3 + MySQL** 构建的旅游服务管理系统。
 
 ### 🧩 功能模块一览
 
